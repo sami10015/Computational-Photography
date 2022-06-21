@@ -1,5 +1,5 @@
 MatPlotLib==3.0.0
 Nelson==0.4.2
 opencv-python==4.0.0.21
-NumPy==1.15.2
+NumPy==1.22.0
 SciPy==1.1.0
